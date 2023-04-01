@@ -4,7 +4,7 @@
 Shop for beautiful and healthy indoor plants on our website - Indoor-Plants. Transform your living space with our wide selection of greenery and bring nature indoors.
 
 ## Deploy link:
-- [Open website]()
+- [Open website](https://website-indoor-plants-git-main-jostooop.vercel.app/)
 
 ## Stack:
 ![React](https://img.shields.io/badge/-React-000?style=for-the-badge&logo=React)
