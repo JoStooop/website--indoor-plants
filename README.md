@@ -1,4 +1,4 @@
-# Indor-Plants
+# Indoor-Plants
 
 ## Description
 Shop for beautiful and healthy indoor plants on our website - Indoor-Plants. Transform your living space with our wide selection of greenery and bring nature indoors.
